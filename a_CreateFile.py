@@ -1,3 +1,3 @@
-for i in range(1, 14):
-    f = open("Chapter5_{}.py".format(i), "w+")
+for i in range(2, 13):
+    f = open("Chapter6_{}.py".format(i), "w+")
     f.close()
